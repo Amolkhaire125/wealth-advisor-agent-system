@@ -1,0 +1,19 @@
+{
+  "client_id": "C001",
+  "status": "completed",
+  "risk_level": "medium",
+  "summary": {
+    "monthly_surplus": 95000.0,
+    "savings_rate": 0.5278,
+    "portfolio_concentration": 0.65,
+    "total_portfolio_value": 1000000.0,
+    "risk_signals": [
+      "Largest holding represents 65% of the portfolio.",
+      "1 unusual transaction(s) detected."
+    ]
+  },
+  "recommendations": [
+    "Review portfolio diversification because the largest holding has high concentration.",
+    "Review transaction T007: Transaction is unusually large relative to monthly income."
+  ]
+}

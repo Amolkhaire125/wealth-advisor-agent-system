@@ -1,0 +1,48 @@
+[
+  {
+    "client_id": "C001",
+    "monthly_income": 180000,
+    "monthly_expenses": 85000,
+    "risk_profile": "moderate",
+    "holdings": [
+      {"asset": "Equity Fund A", "value": 650000},
+      {"asset": "Equity Fund B", "value": 150000},
+      {"asset": "Debt Fund A", "value": 200000}
+    ],
+    "transactions": [
+      {"transaction_id": "T001", "category": "groceries", "amount": 8500, "description": "Monthly groceries"},
+      {"transaction_id": "T002", "category": "utilities", "amount": 5200, "description": "Utilities"},
+      {"transaction_id": "T003", "category": "travel", "amount": 15000, "description": "Travel"},
+      {"transaction_id": "T004", "category": "dining", "amount": 7000, "description": "Dining"},
+      {"transaction_id": "T005", "category": "insurance", "amount": 11000, "description": "Insurance"},
+      {"transaction_id": "T006", "category": "shopping", "amount": 9000, "description": "Shopping"},
+      {"transaction_id": "T007", "category": "electronics", "amount": 110000, "description": "Laptop purchase"}
+    ],
+    "goals": [
+      "Build a long-term retirement corpus",
+      "Maintain an emergency fund"
+    ]
+  },
+  {
+    "client_id": "C002",
+    "monthly_income": 90000,
+    "monthly_expenses": 98000,
+    "risk_profile": "conservative",
+    "holdings": [
+      {"asset": "Equity Fund C", "value": 450000},
+      {"asset": "Debt Fund B", "value": 50000}
+    ],
+    "transactions": [
+      {"transaction_id": "T101", "category": "groceries", "amount": 7000},
+      {"transaction_id": "T102", "category": "utilities", "amount": 4500},
+      {"transaction_id": "T103", "category": "rent", "amount": 25000},
+      {"transaction_id": "T104", "category": "shopping", "amount": 12000},
+      {"transaction_id": "T105", "category": "travel", "amount": 10000},
+      {"transaction_id": "T106", "category": "medical", "amount": 85000}
+    ],
+    "goals": [
+      "Protect capital",
+      "Build an emergency reserve"
+    ]
+  }
+]
